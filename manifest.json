@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "network": "mainnet",
+  "pool": "EQBpCjQrzr2SDPvOxFmqxibc2BlXD_bt4siGCKM6Qyhpd3OP",
+  "file": "v4State.764bf71a2ebb756e1739cd38a90ae055aa1a47d1992e093ed191ddd182ad7b96.json.gz",
+  "sha256": "764bf71a2ebb756e1739cd38a90ae055aa1a47d1992e093ed191ddd182ad7b96",
+  "root": "48418010393728806714530653070167695206866141776734712082329105839068680656036",
+  "last_tx_time": "106061113000013",
+  "totalLeaves": 4000,
+  "generatedAt": "2026-09-27T09:16:31.645Z",
+  "bytes": 1506815,
+  "uncompressedBytes": 3584855
+}
