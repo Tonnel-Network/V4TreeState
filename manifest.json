@@ -2,13 +2,13 @@
   "version": 2,
   "network": "mainnet",
   "pool": "EQBpCjQrzr2SDPvOxFmqxibc2BlXD_bt4siGCKM6Qyhpd3OP",
-  "file": "v4State.c5621ac7acab3f80655afed530583720229b799f4a9b88556490e1b655171a7c.json.gz",
-  "sha256": "c5621ac7acab3f80655afed530583720229b799f4a9b88556490e1b655171a7c",
-  "root": "28369778699908214629083141445919390934779241985032703863800912638511771363237",
-  "last_tx_time": "107292800000011",
-  "totalLeaves": 4054,
-  "generatedAt": "2026-10-02T09:50:06.228Z",
-  "bytes": 1529279,
-  "uncompressedBytes": 3638250,
-  "previousFile": "v4State.7e8d1d3239f95d4e31bcf0cee157c769a60902b26da8ac7391c71dcd2d203fb0.json.gz"
+  "file": "v4State.bf7395c8109442cda9346917077b96e44a8b54bf2624c367c8eb8bf4082d684c.json.gz",
+  "sha256": "bf7395c8109442cda9346917077b96e44a8b54bf2624c367c8eb8bf4082d684c",
+  "root": "16817224256925087372767906720199131788292431466638446771519653895346781587318",
+  "last_tx_time": "107764320000037",
+  "totalLeaves": 4056,
+  "generatedAt": "2026-10-04T14:20:06.208Z",
+  "bytes": 1529754,
+  "uncompressedBytes": 3639345,
+  "previousFile": "v4State.c5621ac7acab3f80655afed530583720229b799f4a9b88556490e1b655171a7c.json.gz"
 }
